@@ -1,0 +1,20 @@
+{
+    "username": "oktavian@gmail.com",
+    "password": "Iyan123!",
+    "size": "#option-label-size-143-item-170",
+    "color": "#option-label-color-93-item-57",
+    "urlSale": "https://magento.softwaretestingboard.com/checkout/#shipping",
+    "company": "sanbercode",
+    "companyNew": "UB",
+    "street0": "Jl. Malang 22",
+    "street1": "Kelurahan Malang Raya",
+    "street2": "Kecamatan Malang Kota",
+    "city": "Kota Malang",
+    "regionId": "Alabama",
+    "postcode": "65111",
+    "country":"Indonesia",
+    "telephone": "081313131313",
+    "telephoneEdit": "081313131313",
+    "urlCheckout": "https://magento.softwaretestingboard.com/checkout/#payment",
+    "urlSuccessOrder": "https://magento.softwaretestingboard.com/checkout/onepage/success/"
+  }
