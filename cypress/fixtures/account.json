@@ -1,0 +1,11 @@
+{
+    "changePasswordFormSelector": "#form-validate",
+    "addAddressFormSelector": "#form-validate",
+    "first": "#firstname",
+    "last": "#lastname",
+    "currentPasswordInputSelector": "#current-password",
+    "paswd": "#password",
+    "paswdConfirm": "#password-confirmation",
+    "email": "#email_address",
+    "submit": "#form-validate > .actions-toolbar > div.primary > .action > span"
+}
