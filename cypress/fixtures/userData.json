@@ -1,0 +1,27 @@
+{
+    "validUser1": {
+      "firstName": "salsabila",
+      "lastName": "ananda",
+      "email": "salsabila@sanberrcode.com",
+      "password": "Test@1234567890",
+      "passwordconfirmation": "Test@1234567890"
+    },
+  
+    "invalidUser1": {
+      "firstName": "user 1",
+      "lastName": "sanberrcode",
+      "email": "user1@sanberrcode",
+      "password": "Test@123456",
+      "password-confirmation": "Test@123456"
+    },
+
+    "invalidUser2": {
+        "firstName": "user 2",
+        "lastName": "",
+        "email": "user1@sanberrcode.com",
+        "password": "Test@123456",
+        "password-confirmation": "Test@123456"
+      }
+
+  }
+  
