@@ -1,0 +1,6 @@
+{
+    "email":"#email",
+    "password": "#pass",
+    "submit": "#send2",
+    "error_msg": "#page-error"
+}
