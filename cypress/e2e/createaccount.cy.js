@@ -11,7 +11,7 @@ describe("Navigasi ke halaman create account", () => {
     cy.clearAllCookies;
     cy.contains("Create an Account").click();
     cy.clearAllCookies;
-  });  
+  });
   
     //positive testcase
     it('TC-1 : Create account dengan semua inputan Sesuai', function() {
