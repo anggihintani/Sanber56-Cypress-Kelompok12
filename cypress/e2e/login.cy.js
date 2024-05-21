@@ -1,10 +1,10 @@
 import loginData from "../fixtures/loginData.json";
-import Navigation from "../support/Navigation";
-import account from "../fixtures/account.json";
+import HomepageNav from "../support/HomepageNav";
+import login from "../fixtures/login.json";
 
 describe("Menuju halaman Login", () => {
     beforeEach(() => {
-        Navigation.visitHomepage();
+        HomepageNav.visitHomepage();
         cy.clearAllCookies;
         cy.contains("Sign In").click();
         cy.clearAllCookies;
