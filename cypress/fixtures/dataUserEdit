@@ -1,0 +1,15 @@
+{
+    "dataUser": {
+        "firstName" : "Ridwan",
+        "lastName" : "Abdul",
+        "email" : "ridwan@gmail.com",
+        "currentPassword" : "Biawak123",
+        "newPassword" : "Kudanil123",
+        "confirmPassword" : "Kudanil123"       
+          
+    }
+}
+
+
+
+
