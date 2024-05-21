@@ -1,0 +1,16 @@
+{
+    "validLogin1":{
+        "email": "anggih.intani@sanbercode.com",
+        "password": "LoginTest@54321"
+
+    },
+    "invalidLogin1":{
+        "email": "user.login1@sanbercode",
+        "password": "LoginTest@54"
+    },
+    "invalidLogin2":{
+        "email": "user.login2@sanbercode.com",
+        "password": "LoginTest@543"
+    }
+
+}
