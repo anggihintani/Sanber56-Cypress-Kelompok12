@@ -11,16 +11,16 @@
       "firstName": "user 1",
       "lastName": "sanberrcode",
       "email": "user1@sanberrcode",
-      "password": "Test@123456",
-      "password-confirmation": "Test@123456"
+      "password": "123456789abc@",
+      "passwordconfirmation": "123456789abc@"
     },
 
     "invalidUser2": {
         "firstName": "user 2",
-        "lastName": "",
-        "email": "user1@sanberrcode.com",
-        "password": "Test@123456",
-        "password-confirmation": "Test@123456"
+        "lastName": "sanberrcode",
+        "email": "user2@sanberrcode.com",
+        "password": "123456789@",
+        "passwordconfirmation": "123456789@"
       }
 
   }
